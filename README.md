@@ -1,0 +1,1 @@
+# beginner_intel_image_classification_project
